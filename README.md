@@ -1,5 +1,7 @@
 # RPT5000  
 Authors: Andrew Bartsch  
+Program description:  
+This program updates the previous report programs with the ability to print out individual sales representative totals along with the client and grand totals.
 Concepts:  
 1. When clauses
 2. Evaluate statements
